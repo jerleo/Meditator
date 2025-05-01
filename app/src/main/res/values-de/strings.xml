@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meditator</string>
+    <string name="stop">Stopp</string>
+    <string name="no_sound">Kein Standard-Benachrichtigungston gesetzt!</string>
+    <string name="notification_sound">Benachrichtigungston: %1$s</string>
+</resources>
