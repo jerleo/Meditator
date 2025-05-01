@@ -3,6 +3,7 @@
     android:height="108dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
+  <!-- https://www.svgrepo.com/svg/324866/yoga -->
   <group android:scaleX="0.5625"
       android:scaleY="0.5625"
       android:translateX="5.25"
